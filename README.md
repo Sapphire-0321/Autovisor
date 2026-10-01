@@ -1,7 +1,5 @@
 ##  Autovisor
 
-**Github项目主页：**[CXRunfree/Autovisor](https://github.com/CXRunfree/Autovisor)
-
 ------
 #### 2026/9/15 公告
 
@@ -162,11 +160,5 @@ cp config.macos.ini.example config.macos.ini
 #### 写在最后
 
 觉得体验还不错? 请留下你宝贵的 Star ⭐, 并分享给更多有需要的人!
-
-或者为项目发电支持一下~
-
-<p align="left"><img src="resources/markdown/donate.png" width="200" alt="赞赏码"></p>
-
-**作者的 CSDN:** [欢迎关注~](https://blog.csdn.net/Runfreeone)
 
 **声明：本程序只可用于学习和研究计算机原理, 请于 24h 内删除所有存档！**
